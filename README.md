@@ -72,7 +72,6 @@ AI-Voice-Assistant/
 - Smarter conversation capabilities using AI models.
 - Integration with APIs for more advanced tasks.
 - Improved voice recognition accuracy.
-- Dark mode for the UI.
 
 ---
 
