@@ -8,9 +8,9 @@ import requests
 import google.generativeai as genai
 
 # API Keys
-NEWS_API_KEY = "f36698c6100f475987fa6edab5c1ba6f"
+NEWS_API_KEY = " "
 WEATHER_API_KEY = " "
-GEMINI_API_KEY = "AIzaSyCkW1yey_RByDkxPN5VWWTDxf48JPREUyc"
+GEMINI_API_KEY = " "
 
 # Initialize Gemini API
 genai.configure(api_key=GEMINI_API_KEY)
